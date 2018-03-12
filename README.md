@@ -6,3 +6,4 @@ This will make conflict.
 edited readme file.
 Making some changes here!
 Try few times to make code in this repo
+We resolved the conflict!
